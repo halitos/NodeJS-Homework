@@ -20,7 +20,7 @@ Answer the following questions:
 
 - What is the first line of the response body?
 
-  - beginning of the array of objects and the first object(episode)'s values.
+  - beginning of the array of objects...
 
 - What is the value of the response header called "Content-Type" ?
 
